@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sohail8890
+- 👋 Hi, I’m Sohail Bhati
 - 👀 I’m interested in Html, css, JavaScript, Php, Laravel, Wordpress.
 - 🌱 I’m currently learning more about Php Laravel and API.
 - 📫 How to reach me :- Email- bhati889066@gmail.com  Contact No.- 8291722536
